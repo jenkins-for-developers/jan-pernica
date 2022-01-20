@@ -91,8 +91,6 @@ all_jobs = [
 ]
 
 
-def JMENO = 'jan'
-def PRIJMENI = 'pernica'
 def adresar = 'TEAMS/A-TEAM/01-HELLO-FROM-CLI'
 def shellCmd = 'java -jar target/*.jar'
 
